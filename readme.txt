@@ -1,0 +1,15 @@
+Image : sample2.jpg
+
+1. For Skew correction, Run : SkewCorrection.py by python using cmd command: 
+	a. First reach location of image
+	b. run code - SkewCorrection.py --image sample2.jpg 
+2. For preprocessing, Run preprocessing.py
+ 
+3. For line segmentation, Run lineseg.py
+ 
+4. For word segmentation, Run wordseg.py
+ 
+5. For character segment run TrainAndTest.py
+5. Change image number at line no. 64
+6. Run GenData.py file to train the machine for characters.
+	press left arrow key until the window closes
