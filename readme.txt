@@ -1,10 +1,12 @@
 Image : sample2.jpg
 Pre Procedure:
-Create 3 new folders before processing the project:
-1) images
-2) line
-3) word
+1. Create 3 new folders before processing the project:
+	1) images
+	2) line
+	3) word
 The above named directories are used to store processed data
+2. Delete the sample2.jpg file, which is already given for testing.
+3. Add the sample image with name 'sample2' and file should be of jpg format.
 
 
 1. For Skew correction, Run : SkewCorrection.py by python using cmd command: 
