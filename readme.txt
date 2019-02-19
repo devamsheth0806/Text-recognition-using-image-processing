@@ -1,4 +1,11 @@
 Image : sample2.jpg
+Pre Procedure:
+Create 3 new folders before processing the project:
+1) images
+2) line
+3) word
+The above named directories are used to store processed data
+
 
 1. For Skew correction, Run : SkewCorrection.py by python using cmd command: 
 	a. First reach location of image
